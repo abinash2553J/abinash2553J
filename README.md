@@ -11,9 +11,9 @@
   <img src="https://img.shields.io/badge/Location-Odisha,_India-5a189a?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
   <br />
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-5a189a?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Follow-5a189a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/abinash-karan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-5a189a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="abinashkaran09@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-5a189a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/abinash2553J"><img src="https://img.shields.io/badge/GitHub-Follow-5a189a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=abinashkaran&color=5a189a&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/abinashkaran?style=for-the-badge&color=5a189a" alt="Followers" />
@@ -189,11 +189,11 @@ Building scalable software architecture and deploying intelligent applications a
 ## 👨‍💻 Coding Profiles
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-Profile-5a189a?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-5a189a?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-Profile-5a189a?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-Profile-5a189a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-Profile-5a189a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+  <a href="https://leetcode.com/u/abinash_2269/"><img src="https://img.shields.io/badge/LeetCode-Profile-5a189a?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/abinashk6y9t"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-5a189a?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+  <a href="https://www.hackerrank.com/profile/abinashkaran09"><img src="https://img.shields.io/badge/HackerRank-Profile-5a189a?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://www.codechef.com/users/sharp_peace_23"><img src="https://img.shields.io/badge/CodeChef-Profile-5a189a?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://github.com/abinash2553J"><img src="https://img.shields.io/badge/GitHub-Profile-5a189a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
 </div>
 
 ---
