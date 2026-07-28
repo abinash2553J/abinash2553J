@@ -202,7 +202,9 @@ Building scalable software architecture and deploying intelligent applications a
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/?username=abinash2553J&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=ffffff" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abinash2553J&theme=radical&hide_border=true&background=0D1117&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" alt="GitHub Streak" width="48%" />
+  <img
+    src="https://streak-stats.demolab.com?user=abinash2553J&theme=radical&hide_border=true"
+    alt="GitHub Streak" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash2553J&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=ffffff" alt="Top Languages" />
