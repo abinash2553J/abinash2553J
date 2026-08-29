@@ -16,7 +16,6 @@
 - 🎓 Dual-degree student — **BS in Data Science & Applications** (IIT Madras) and **BSc (Hons.) Computer Science** (BITS Pilani), graduating **2029**
 - 📍 From Bargarh, India
 - 🧠 Interested in **backend systems, distributed systems, and applied ML**
-- 🌱 Currently onboarding to **[Litestar](https://litestar.dev/)** as an entry point for **GSoC 2027**
 - 🇯🇵 Selected for **GCI World 2026** — an online AI & data science program at the Matsuo-Iwasawa Lab, University of Tokyo (Sept 2026)
 - 🎯 Actively building open-source contributions and portfolio projects toward internships and GSoC
 
