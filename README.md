@@ -60,3 +60,5 @@ Always open to conversations on distributed systems, ML, and open source — fee
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" />
 </p>
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/3fe9997e-b81b-44ce-806f-87dab9149dfb.jpeg?v=1792132710)](https://www.boot.dev/certificates/3fe9997e-b81b-44ce-806f-87dab9149dfb)
