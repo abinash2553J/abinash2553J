@@ -11,7 +11,7 @@ I build practical web applications and developer tools, and I'm exploring AI, da
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/abinash2553J">
-    <img src="https://img.shields.io/badge/GitHub- abinash2553J-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-abinash2553J-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/abinash-karan/">
     <img src="https://img.shields.io/badge/LinkedIn-Abinash%20Karan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
