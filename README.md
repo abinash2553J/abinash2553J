@@ -1,112 +1,134 @@
 <div align="center">
-<!-- <!---->-->
-<!---->
-<h1 align="center">Hey, I'm Abinash Karan 👋</h1>
-<h6>Full-Stack Developer</h6>
-</div> 
 
-<p align="center">
-<a href="https://www.linkedin.com/in/your-handle/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Gabriele%20Grandinetti-0077B5?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEyNCwtNzMxOSkiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xNDQsNzMzOSBMMTQwLDczMzkgTDE0MCw3MzMyLjAwMSBDMTQwLDczMzAuMDgxIDEzOS4xNTMsNzMyOS4wMSAxMzcuNjM0LDczMjkuMDEgQzEzNS45ODEsNzMyOS4wMSAxMzUsNzMzMC4xMjYgMTM1LDczMzIuMDAxIEwxMzUsNzMzOSBMMTMxLDczMzkgTDEzMSw3MzI2IEwxMzUsNzMyNiBMMTM1LDczMjcuNDYyIEMxMzUsNzMyNy40NjIgMTM2LjI1NSw3MzI1LjI2IDEzOS4wODMsNzMyNS4yNiBDMTQxLjkxMiw3MzI1LjI2IDE0NCw3MzI2Ljk4NiAxNDQsNzMzMC41NTggTDE0NCw3MzM5IEwxNDQsNzMzOSBaIE0xMjYuNDQyLDczMjMuOTIxIEMxMjUuMDkzLDczMjMuOTIxIDEyNCw3MzIyLjgxOSAxMjQsNzMyMS40NiBDMTI0LDczMjAuMTAyIDEyNS4wOTMsNzMxOSAxMjYuNDQyLDczMTkgQzEyNy43OSw3MzE5IDEyOC44ODMsNzMyMC4xMDIgMTI4Ljg4Myw3MzIxLjQ2IEMxMjguODg0LDczMjIuODE5IDEyNy43OSw3MzIzLjkyMSAxMjYuNDQyLDczMjMuOTIxIEwxMjYuNDQyLDczMjMuOTIxIFogTTEyNCw3MzM5IEwxMjksNzMzOSBMMTI5LDczMjYgTDEyNCw3MzI2IEwxMjQsNzMzOSBaIi8+PC9nPjwvc3ZnPg=="/>
-</a>
+# Hey, I'm Abinash Karan 👋
 
-  <a href="https://my-portfolio-eight-kappa-24.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/website-gabrielegrandinetti.dev-F7DF1E?style=for-the-badge&logo=devbox&logoColor=%23ffffff"/>
+### Software Developer · Student · Open-Source Contributor
+
+I build practical web applications and developer tools, and I'm exploring AI, data science, backend engineering, and software security.
+
+<p>
+  <a href="https://my-portfolio-eight-kappa-24.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-
-  <a href="mailto:you@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-gabriele.grandinetti%40hotmail.com-0078D4?style=for-the-badge&logo=mailgun&logoColor=%23ffffff"/>
+  <a href="https://github.com/abinash2553J">
+    <img src="https://img.shields.io/badge/GitHub- abinash2553J-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/abinash-karan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abinash%20Karan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abinashkaran09@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+</div>
+
 ## 🧑‍💻 About Me
 
-<em>✏️ A sentence about you and what you do.</em>
-<em>✏️ A sentence about you and what you do.</em>
-
-<em>✏️ A sentence about you and what you do.</em>
-
-- 🏙️ <em>✏️ A sentence about you and what you do.</em>
-- 🔭 <em>✏️ A sentence about you and what you do.</em>
-- 💡 <em>✏️ A sentence about you and what you do.</em>
-- 🌐 <em>✏️ A sentence about you and what you do.</em>
+- 🎓 Undergraduate student studying computer science and data science.
+- 💻 I enjoy building full-stack applications and tools that solve practical problems.
+- 🤖 Exploring AI-powered products, machine learning, and automation.
+- 🔐 Interested in backend engineering, developer experience, and software security.
+- 🌱 Learning by shipping projects, improving code quality, and contributing to open source.
+- 🌐 Visit my [portfolio](https://my-portfolio-eight-kappa-24.vercel.app/) to see more of my work.
 
 ## 🛠️ Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring%20Ecosystem-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square&logo=apachekafka&logoColor=white)
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Database
+### Backend, Data & AI
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-### DevOps & Tooling
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![NATS](https://img.shields.io/badge/NATS-199bfc?style=flat-square&logo=natsdotio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Code Quality & Security
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Semgrep](https://img.shields.io/badge/Semgrep-1A1A1A?style=flat-square&logo=semgrep&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+## 🚀 Featured Projects
 
-## 🚀 Featured Project — PagaTu
+### [Rove](https://github.com/abinash2553J/rove)
+**AI-powered trip planning**
 
-> <em>✏️ What you built and why it matters.</em>
+Generate personalized, day-by-day travel itineraries using travel dates, group size, budget, and interests. Rove includes an interactive map, editable plans, saved trips, and shareable itineraries.
 
-| Layer | Stack |
-|---|---|
-| **Frontend** | React · Vite · TypeScript |
-| **Backend** | Java · Spring Boot · REST API |
-| **Messaging** | Apache Kafka · NATS |
-| **Database** | PostgreSQL |
-| **DevOps** | Docker · GitHub Actions · PM2 |
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-000000?style=flat-square&logo=vercel&logoColor=white)](https://rove-rust.vercel.app/)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinash2553J/rove)
 
-<p>
-  <a href="https://github.com/abinash2553j?tab=repositories">
-    <img src="https://img.shields.io/badge/Backend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-<br></br>
-  <a href="https://github.com/abinash2553j?tab=repositories">
-    <img src="https://img.shields.io/badge/Frontend%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+### [Render](https://github.com/abinash2553J/Render)
+**Create and share profile cards**
+
+Turn a social profile into a polished card. Customize the style, layout, and background, then download the result or copy it to your clipboard.
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinash2553J/Render)
+
+### [LeakLens](https://github.com/abinash2553J/LeakLens)
+**A local-first secret scanner**
+
+A Python command-line tool that checks repositories for likely API keys, tokens, passwords, and private-key material. It runs locally, has no runtime dependencies, and redacts findings in its output.
+
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/abinash2553J/LeakLens)
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinash2553J/LeakLens)
+
+### [Kora Protocol — Frontend](https://github.com/abinash2553J/Kora-Frontend)
+**Invoice financing on Stellar Soroban**
+
+Frontend for a protocol concept where small and medium-sized businesses can tokenize unpaid invoices and seek liquidity from buyers.
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinash2553J/Kora-Frontend)
+
+### [Netflix Recommendation System](https://github.com/abinash2553J/Netflix-Recommendation-System)
+**Content-based recommendations**
+
+An interactive Streamlit demo that recommends similar titles based on genres, plot descriptions, cast, and director information.
+
+[![Repository](https://img.shields.io/badge/Repository-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinash2553J/Netflix-Recommendation-System)
+
+### [My Portfolio](https://my-portfolio-eight-kappa-24.vercel.app/)
+**A home for my work and learning**
+
+Built with Next.js, React, TypeScript, Tailwind CSS, and Motion. It brings together my projects, writing, experience, GitHub activity, and interactive details.
+
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-eight-kappa-24.vercel.app/)
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abinash2553J/My-portfolio)
+
+## 🤝 Open Source
+
+I enjoy understanding existing codebases, reproducing issues, writing focused fixes, and improving documentation. I've been contributing to open-source projects and learning from code review and collaboration.
 
 ## 📊 GitHub Stats
 
 <div align="center">
- 
-<img src="https://streak-stats.demolab.com/?user=abinash2553j&theme=dark&hide_border=true" height="160"/>
-  
-![](https://github-readme-stats.shion.dev/api?username=abinash2553j&theme=dark&hide_border=true&include_all_commits=false&count_private=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abinash2553j&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-<img src="https://img.shields.io/github/followers/abinash2553j?label=Followers&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/github/stars/abinash2553j?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1a1b27&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/abinash2553j&label=Profile%20Views&query=$.public_repos&style=for-the-badge&color=1a1b27&labelColor=0D1117&logo=github"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abinash2553J&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinash2553J&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=abinash2553J&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
 </div>
 
-<p align="center"><sub>Abinash Karan · <a href="https://www.gitskins.com/readme-generator?template=community-cat-fullstack-read-me-4a6c">Cat Fullstack Read.me</a> template by <a href="https://www.gitskins.com/creators/Lele97">@Lele97</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+<div align="center">
+
+Thanks for visiting!
+
+[Portfolio](https://my-portfolio-eight-kappa-24.vercel.app/) · [GitHub](https://github.com/abinash2553J) · [LinkedIn](https://www.linkedin.com/in/abinash-karan/)
+
+</div>
